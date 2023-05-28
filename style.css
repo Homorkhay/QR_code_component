@@ -1,0 +1,49 @@
+body {
+	background-color: hsl(212, 45%, 89%);
+	font-family: helvatica;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+}
+
+img {
+	max-width: 100%;
+	border-radius: 10px;
+
+}
+
+.imageContainer {
+ 	border-radius: 15px;
+ 	background-color: hsl(0, 0%, 100%);
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	max-width: 17rem;
+	padding: 15px;
+	margin-bottom: 3rem;
+}
+
+p {
+ 	font-family: helvatica;
+ 	font-weight: 400, 700;
+ 	text-align: center;
+ 	color: hsl(220, 15%, 55%);
+ 	padding: 5px;
+}
+
+h3 {
+ 	font-family: helvatica;
+ 	font-weight: 400, 700;
+ 	text-align: center;
+ 	color: hsl(218, 44%, 22%);
+ 	padding: 5px;
+}
+
+
+.color {
+ 	color: hsl(218, 44%, 22%);
+	text-align: center;
+  font-size: 14px;
+}
