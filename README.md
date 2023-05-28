@@ -47,8 +47,8 @@ I would love to know more on how to use flexbox, css grid, float and position ve
 
 ### Useful resources
 
-- [Example resource 1](https://www.flexboxfroggy.com) - This helped me to understand flexbox better. 
-- [Example resource 2](https://www.w3schools.com) - This is an amazing article which helped me finally understand a lot about css including responsiveness
+- [Flexbox Froggy](https://www.flexboxfroggy.com) - This helped me to understand flexbox better. 
+- [w3schools](https://www.w3schools.com) - This is an amazing article which helped me finally understand a lot about css including responsiveness
 
 
 ## Author
